@@ -1,1 +1,3 @@
 # Homework2
+The purpose of this project to make a password generator from a given list of words for either a memorable or random password. It then takes that process and adds on dates and times the passwords are made while adding to a file I made called Generated_Passwords.
+Input would be the text file for the words. It uses the time, random, and os modules to create a directory for the file we want to write. It then goes to the process if the password is memorable or random before loading the words to create the memorable passwords. Lastly, there will be 1000 passwords generated within the peremiters given.
